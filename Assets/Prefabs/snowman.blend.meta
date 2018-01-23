@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: a2d817d34031a194eaa57bffe41ebc07
+timeCreated: 1516043805
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Arm_L
+    100002: Arm_R__facing_him_
+    100004: Bottom
+    100006: Button_1
+    100008: Button_2
+    100010: Button_3
+    100012: Cube
+    100014: Eye_L
+    100016: Eye_R
+    100018: Hat_Brim
+    100020: Head
+    100022: L_finger_L
+    100024: L_finger_M
+    100026: L_finger_R
+    100028: M_Body
+    100030: Nose
+    100032: R_finger_L
+    100034: R_finger_M
+    100036: R_finger_R
+    100038: Scarf
+    100040: Smile
+    100042: Smile2
+    100044: Smile3
+    100046: Smile4
+    100048: Smile5
+    100050: //RootNode
+    100052: Top_of_Hat
+    400000: Arm_L
+    400002: Arm_R__facing_him_
+    400004: Bottom
+    400006: Button_1
+    400008: Button_2
+    400010: Button_3
+    400012: Cube
+    400014: Eye_L
+    400016: Eye_R
+    400018: Hat_Brim
+    400020: Head
+    400022: L_finger_L
+    400024: L_finger_M
+    400026: L_finger_R
+    400028: M_Body
+    400030: Nose
+    400032: R_finger_L
+    400034: R_finger_M
+    400036: R_finger_R
+    400038: Scarf
+    400040: Smile
+    400042: Smile2
+    400044: Smile3
+    400046: Smile4
+    400048: Smile5
+    400050: //RootNode
+    400052: Top_of_Hat
+    2100000: Material_002
+    2100002: unnamed
+    2100004: Material_003
+    2100006: Hat
+    2300000: Arm_L
+    2300002: Arm_R__facing_him_
+    2300004: Bottom
+    2300006: Button_1
+    2300008: Button_2
+    2300010: Button_3
+    2300012: Cube
+    2300014: Eye_L
+    2300016: Eye_R
+    2300018: Hat_Brim
+    2300020: Head
+    2300022: L_finger_L
+    2300024: L_finger_M
+    2300026: L_finger_R
+    2300028: M_Body
+    2300030: Nose
+    2300032: R_finger_L
+    2300034: R_finger_M
+    2300036: R_finger_R
+    2300038: Scarf
+    2300040: Smile
+    2300042: Smile2
+    2300044: Smile3
+    2300046: Smile4
+    2300048: Smile5
+    2300050: Top_of_Hat
+    3300000: Arm_L
+    3300002: Arm_R__facing_him_
+    3300004: Bottom
+    3300006: Button_1
+    3300008: Button_2
+    3300010: Button_3
+    3300012: Cube
+    3300014: Eye_L
+    3300016: Eye_R
+    3300018: Hat_Brim
+    3300020: Head
+    3300022: L_finger_L
+    3300024: L_finger_M
+    3300026: L_finger_R
+    3300028: M_Body
+    3300030: Nose
+    3300032: R_finger_L
+    3300034: R_finger_M
+    3300036: R_finger_R
+    3300038: Scarf
+    3300040: Smile
+    3300042: Smile2
+    3300044: Smile3
+    3300046: Smile4
+    3300048: Smile5
+    3300050: Top_of_Hat
+    4300000: Cube
+    4300002: Scarf
+    4300004: Head
+    4300006: M_Body
+    4300008: Bottom
+    4300010: Button_3
+    4300012: Button_2
+    4300014: Button_1
+    4300016: Arm_L
+    4300018: L_finger_L
+    4300020: L_finger_M
+    4300022: L_finger_R
+    4300024: R_finger_R
+    4300026: R_finger_M
+    4300028: R_finger_L
+    4300030: Arm_R__facing_him_
+    4300032: Top_of_Hat
+    4300034: Hat_Brim
+    4300036: Smile3
+    4300038: Smile4
+    4300040: Smile2
+    4300042: Smile5
+    4300044: Smile
+    4300046: Nose
+    4300048: Eye_R
+    4300050: Eye_L
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
